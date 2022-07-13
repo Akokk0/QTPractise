@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/CMakeFiles/FirstQtProject.dir
+/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/CMakeFiles/FirstQtProject_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/CMakeFiles/FirstQtProject_autogen.dir

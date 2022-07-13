@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/UITest/cmake-build-debug/CMakeFiles/UITest.dir
+/Users/akokko/CLionProjects/UITest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/UITest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/UITest/cmake-build-debug/CMakeFiles/UITest_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/UITest/cmake-build-debug/CMakeFiles/UITest_autogen.dir

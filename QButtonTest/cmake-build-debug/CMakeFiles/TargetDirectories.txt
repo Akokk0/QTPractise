@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/QButtonTest/cmake-build-debug/CMakeFiles/QButtonTest.dir
+/Users/akokko/CLionProjects/QButtonTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/QButtonTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/QButtonTest/cmake-build-debug/CMakeFiles/QButtonTest_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/QButtonTest/cmake-build-debug/CMakeFiles/QButtonTest_autogen.dir

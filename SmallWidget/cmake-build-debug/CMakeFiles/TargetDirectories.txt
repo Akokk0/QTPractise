@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/SmallWidget/cmake-build-debug/CMakeFiles/SmallWidget.dir
+/Users/akokko/CLionProjects/SmallWidget/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/SmallWidget/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/SmallWidget/cmake-build-debug/CMakeFiles/SmallWidget_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/SmallWidget/cmake-build-debug/CMakeFiles/SmallWidget_autogen.dir

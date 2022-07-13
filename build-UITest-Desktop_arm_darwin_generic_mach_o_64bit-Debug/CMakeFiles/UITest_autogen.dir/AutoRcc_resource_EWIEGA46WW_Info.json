@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/UITest_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/akokko/CLionProjects/UITest",
+	"CMAKE_SOURCE_DIR" : "/Users/akokko/CLionProjects/UITest",
+	"INCLUDE_DIR" : "/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/UITest_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/akokko/CLionProjects/UITest/resource/openFile.png",
+		"/Users/akokko/CLionProjects/UITest/resource/newFile.png"
+	],
+	"LOCK_FILE" : "/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/UITest_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/UITest_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/akokko/CLionProjects/UITest/resource.qrc",
+	"VERBOSITY" : 0
+}

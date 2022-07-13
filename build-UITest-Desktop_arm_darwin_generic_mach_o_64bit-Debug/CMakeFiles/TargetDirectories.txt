@@ -1,0 +1,4 @@
+/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/UITest.dir
+/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/build-UITest-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/UITest_autogen.dir

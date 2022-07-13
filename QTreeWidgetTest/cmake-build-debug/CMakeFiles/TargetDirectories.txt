@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/QTreeWidgetTest/cmake-build-debug/CMakeFiles/QTreeWidgetTest.dir
+/Users/akokko/CLionProjects/QTreeWidgetTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/QTreeWidgetTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/QTreeWidgetTest/cmake-build-debug/CMakeFiles/QTreeWidgetTest_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/QTreeWidgetTest/cmake-build-debug/CMakeFiles/QTreeWidgetTest_autogen.dir

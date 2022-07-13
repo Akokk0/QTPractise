@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/CMakeFiles/QtWidgetsTest.dir
+/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/CMakeFiles/QtWidgetsTest_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/CMakeFiles/QtWidgetsTest_autogen.dir

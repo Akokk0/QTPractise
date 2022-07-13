@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QButtonTest",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QButtonTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QButtonTest-Debug-e8e8ed901c85604ffc2f.json",
+					"name" : "QButtonTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QButtonTest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QButtonTest_autogen-Debug-976db26a3b528a1c73fd.json",
+					"name" : "QButtonTest_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/akokko/CLionProjects/build-QButtonTest-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/akokko/CLionProjects/QButtonTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,5 @@
+/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/CMakeFiles/QTEventPractise.dir
+/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/CMakeFiles/QTEventPractise_autogen_timestamp_deps.dir
+/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/CMakeFiles/QTEventPractise_autogen.dir

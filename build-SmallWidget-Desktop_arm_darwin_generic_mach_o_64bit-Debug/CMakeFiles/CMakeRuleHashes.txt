@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+28f6936e07cf236ec8a92f382cf9c56b CMakeFiles/SmallWidget_autogen

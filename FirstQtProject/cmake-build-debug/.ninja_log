@@ -1,0 +1,9 @@
+# ninja log v5
+232	885	1652617638419411509	CMakeFiles/FirstQtProject.dir/FirstQtProject_autogen/mocs_compilation.cpp.o	a0eff716b5dece5d
+2	31	1652620910513934391	/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/FirstQtProject_autogen/mocs_compilation.cpp	2cf9bcd4306118b8
+2	31	1652620910513934391	FirstQtProject_autogen/mocs_compilation.cpp	2cf9bcd4306118b8
+33	794	1652620911273969568	CMakeFiles/FirstQtProject.dir/mainwindow.cpp.o	a1b1027477160c75
+233	940	1652617638477623105	CMakeFiles/FirstQtProject.dir/main.cpp.o	841277726a37c540
+2	31	1652620910513934391	/Users/akokko/CLionProjects/FirstQtProject/cmake-build-debug/FirstQtProject_autogen/timestamp	2cf9bcd4306118b8
+2	31	1652620910513934391	FirstQtProject_autogen/timestamp	2cf9bcd4306118b8
+794	877	1652620911359685640	FirstQtProject.app/Contents/MacOS/FirstQtProject	11e8ad1c3d54a1a1

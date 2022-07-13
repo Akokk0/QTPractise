@@ -1,0 +1,27 @@
+# ninja log v5
+690	759	1652712514613090940	CustomSignalAndSlot.app/Contents/MacOS/CustomSignalAndSlot	c72d7f1b137cfc31
+255	1378	1652709786774049745	CMakeFiles/CustomSignalAndSlot.dir/main.cpp.o	4ef9eb8a5a0e8889
+48	690	1652712514542573624	CMakeFiles/CustomSignalAndSlot.dir/widget.cpp.o	3b96c1c2a007f615
+255	1356	1652709786750965137	CMakeFiles/CustomSignalAndSlot.dir/CustomSignalAndSlot_autogen/mocs_compilation.cpp.o	1503c5633fe0c8d3
+256	1234	1652709786628145316	CMakeFiles/CustomSignalAndSlot.dir/student.cpp.o	d455d2b96a70840f
+255	1184	1652709786576374090	CMakeFiles/CustomSignalAndSlot.dir/teacher.cpp.o	518e5e650ee44d91
+2	46	1652712513901278634	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+2	46	1652712513901278634	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+2	46	1652712513901278634	CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+2	46	1652712513901278634	CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+2	23	1652712520325916647	CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+2	23	1652712520325916647	CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+2	23	1652712520325916647	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+2	23	1652712520325916647	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+24	629	1652712520929554959	CMakeFiles/CustomSignalAndSlot.dir/widget.cpp.o	3b96c1c2a007f615
+629	692	1652712520994228613	CustomSignalAndSlot.app/Contents/MacOS/CustomSignalAndSlot	c72d7f1b137cfc31
+5	32	1652712534002486480	CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+5	32	1652712534002486480	CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+5	32	1652712534002486480	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+5	32	1652712534002486480	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+33	670	1652712534638307900	CMakeFiles/CustomSignalAndSlot.dir/widget.cpp.o	3b96c1c2a007f615
+671	741	1652712534711154391	CustomSignalAndSlot.app/Contents/MacOS/CustomSignalAndSlot	c72d7f1b137cfc31
+2	30	1652712591215445335	CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+2	30	1652712591215445335	CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c
+2	30	1652712591215445335	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/timestamp	8bc120d5a620057c
+2	30	1652712591215445335	/Users/akokko/CLionProjects/CustomSignalAndSlot/cmake-build-debug/CustomSignalAndSlot_autogen/mocs_compilation.cpp	8bc120d5a620057c

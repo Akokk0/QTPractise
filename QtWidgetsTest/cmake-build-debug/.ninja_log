@@ -1,0 +1,9 @@
+# ninja log v5
+3	30	1652716128562801200	QtWidgetsTest_autogen/timestamp	985430894d8000c4
+31	922	1652716129450789018	CMakeFiles/QtWidgetsTest.dir/mainwindow.cpp.o	e8262b37f06146ee
+241	1184	1652714462307792533	CMakeFiles/QtWidgetsTest.dir/main.cpp.o	1cd6dc665695efd3
+3	30	1652716128562801200	/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/QtWidgetsTest_autogen/mocs_compilation.cpp	985430894d8000c4
+3	30	1652716128562801200	/Users/akokko/CLionProjects/QtWidgetsTest/cmake-build-debug/QtWidgetsTest_autogen/timestamp	985430894d8000c4
+241	1135	1652714462257233367	CMakeFiles/QtWidgetsTest.dir/QtWidgetsTest_autogen/mocs_compilation.cpp.o	f43bd3d8caef5eb5
+3	30	1652716128562801200	QtWidgetsTest_autogen/mocs_compilation.cpp	985430894d8000c4
+922	1007	1652716129538806512	QtWidgetsTest.app/Contents/MacOS/QtWidgetsTest	7f5142c3badcacbc

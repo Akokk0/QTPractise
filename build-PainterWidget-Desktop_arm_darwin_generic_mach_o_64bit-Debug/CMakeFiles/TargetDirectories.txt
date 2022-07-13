@@ -1,0 +1,4 @@
+/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/PainterWidget.dir
+/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/PainterWidget_autogen.dir

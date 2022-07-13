@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PainterWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PainterWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PainterWidget-Debug-90c7a7e3b414a63e0af2.json",
+					"name" : "PainterWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PainterWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PainterWidget_autogen-Debug-560348afabfedac87a90.json",
+					"name" : "PainterWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PainterWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PainterWidget_autogen_timestamp_deps-Debug-86edf2f40e862a2b9e21.json",
+					"name" : "PainterWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/akokko/CLionProjects/PainterWidget/cmake-build-debug",
+		"source" : "/Users/akokko/CLionProjects/PainterWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

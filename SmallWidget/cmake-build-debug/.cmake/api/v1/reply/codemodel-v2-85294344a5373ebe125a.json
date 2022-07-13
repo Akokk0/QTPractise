@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SmallWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SmallWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmallWidget-Debug-78345ae2dce3cb844dcb.json",
+					"name" : "SmallWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmallWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmallWidget_autogen-Debug-8bcb0a3f228b2db25352.json",
+					"name" : "SmallWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmallWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmallWidget_autogen_timestamp_deps-Debug-fa88d71b95c51339f173.json",
+					"name" : "SmallWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/akokko/CLionProjects/SmallWidget/cmake-build-debug",
+		"source" : "/Users/akokko/CLionProjects/SmallWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/PainterWidget_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/akokko/CLionProjects/PainterWidget",
+	"CMAKE_SOURCE_DIR" : "/Users/akokko/CLionProjects/PainterWidget",
+	"INCLUDE_DIR" : "/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/PainterWidget_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/akokko/CLionProjects/PainterWidget/img/3.png",
+		"/Users/akokko/CLionProjects/PainterWidget/img/4.png",
+		"/Users/akokko/CLionProjects/PainterWidget/img/2.png",
+		"/Users/akokko/CLionProjects/PainterWidget/img/1.png",
+		"/Users/akokko/CLionProjects/PainterWidget/img/5.png"
+	],
+	"LOCK_FILE" : "/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/PainterWidget_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/akokko/CLionProjects/build-PainterWidget-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/PainterWidget_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/akokko/CLionProjects/PainterWidget/res.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest.dir
+/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir

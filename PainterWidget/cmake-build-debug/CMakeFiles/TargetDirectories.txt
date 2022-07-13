@@ -1,0 +1,5 @@
+/Users/akokko/CLionProjects/PainterWidget/cmake-build-debug/CMakeFiles/PainterWidget.dir
+/Users/akokko/CLionProjects/PainterWidget/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/CLionProjects/PainterWidget/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/CLionProjects/PainterWidget/cmake-build-debug/CMakeFiles/PainterWidget_autogen_timestamp_deps.dir
+/Users/akokko/CLionProjects/PainterWidget/cmake-build-debug/CMakeFiles/PainterWidget_autogen.dir
