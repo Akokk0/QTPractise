@@ -8,6 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/QTEventPractise.dir/main.cpp.o.d"
   "CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o"
   "CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/QTEventPractise.dir/mylabel.cpp.o"
+  "CMakeFiles/QTEventPractise.dir/mylabel.cpp.o.d"
   "QTEventPractise.app/Contents/MacOS/QTEventPractise"
   "QTEventPractise.pdb"
 )

@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/akokko/QTProjects/build-QTEventPractise-Desktop_arm_darwin_generic_mach_o_64bit-Debug/QTEventPractise_autogen/mocs_compilation.cpp" "CMakeFiles/QTEventPractise.dir/QTEventPractise_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/QTEventPractise.dir/QTEventPractise_autogen/mocs_compilation.cpp.o.d"
   "/Users/akokko/QTProjects/QTEventPractise/main.cpp" "CMakeFiles/QTEventPractise.dir/main.cpp.o" "gcc" "CMakeFiles/QTEventPractise.dir/main.cpp.o.d"
   "/Users/akokko/QTProjects/QTEventPractise/mainwindow.cpp" "CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o.d"
+  "/Users/akokko/QTProjects/QTEventPractise/mylabel.cpp" "CMakeFiles/QTEventPractise.dir/mylabel.cpp.o" "gcc" "CMakeFiles/QTEventPractise.dir/mylabel.cpp.o.d"
   )
 
 # Targets to which this target links.

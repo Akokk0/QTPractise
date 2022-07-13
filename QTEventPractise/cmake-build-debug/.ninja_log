@@ -1,0 +1,26 @@
+# ninja log v5
+0	326	1657695811758702385	QTEventPractise_autogen/timestamp	ccde439f49b349b3
+0	326	1657695811758702385	QTEventPractise_autogen/mocs_compilation.cpp	ccde439f49b349b3
+0	326	1657695811758702385	/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/QTEventPractise_autogen/timestamp	ccde439f49b349b3
+0	326	1657695811758702385	/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/QTEventPractise_autogen/mocs_compilation.cpp	ccde439f49b349b3
+327	1413	1657695812847368157	CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o	adc8d7e279652f86
+327	1423	1657695812859054163	CMakeFiles/QTEventPractise.dir/QTEventPractise_autogen/mocs_compilation.cpp.o	da40734cff06c7d9
+327	1438	1657695812873166335	CMakeFiles/QTEventPractise.dir/mylabel.cpp.o	f9ce05c0d55877cd
+327	1459	1657695812896408641	CMakeFiles/QTEventPractise.dir/main.cpp.o	407653a92132bf15
+1459	1560	1657695812999619728	QTEventPractise.app/Contents/MacOS/QTEventPractise	c9df2c30c3879c32
+2	222	1657696058694752000	QTEventPractise_autogen/timestamp	ccde439f49b349b3
+2	222	1657696058694752000	QTEventPractise_autogen/mocs_compilation.cpp	ccde439f49b349b3
+2	222	1657696058694752000	/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/QTEventPractise_autogen/timestamp	ccde439f49b349b3
+2	222	1657696058694752000	/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/QTEventPractise_autogen/mocs_compilation.cpp	ccde439f49b349b3
+223	1106	1657696059580686587	CMakeFiles/QTEventPractise.dir/mylabel.cpp.o	f9ce05c0d55877cd
+222	1123	1657696059597926038	CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o	adc8d7e279652f86
+222	1143	1657696059618049148	CMakeFiles/QTEventPractise.dir/QTEventPractise_autogen/mocs_compilation.cpp.o	da40734cff06c7d9
+1143	1231	1657696059708459124	QTEventPractise.app/Contents/MacOS/QTEventPractise	c9df2c30c3879c32
+2	202	1657696259758770000	QTEventPractise_autogen/timestamp	ccde439f49b349b3
+2	202	1657696259758770000	QTEventPractise_autogen/mocs_compilation.cpp	ccde439f49b349b3
+2	202	1657696259758770000	/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/QTEventPractise_autogen/timestamp	ccde439f49b349b3
+2	202	1657696259758770000	/Users/akokko/QTProjects/QTEventPractise/cmake-build-debug/QTEventPractise_autogen/mocs_compilation.cpp	ccde439f49b349b3
+203	1000	1657696260557357475	CMakeFiles/QTEventPractise.dir/mylabel.cpp.o	f9ce05c0d55877cd
+203	1029	1657696260587556952	CMakeFiles/QTEventPractise.dir/mainwindow.cpp.o	adc8d7e279652f86
+202	1039	1657696260597245659	CMakeFiles/QTEventPractise.dir/QTEventPractise_autogen/mocs_compilation.cpp.o	da40734cff06c7d9
+1039	1133	1657696260693762779	QTEventPractise.app/Contents/MacOS/QTEventPractise	c9df2c30c3879c32

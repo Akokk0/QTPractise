@@ -214,6 +214,30 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/QTEventPractise.dir/build.make CMakeFiles/QTEventPractise.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+mylabel.o: mylabel.cpp.o
+.PHONY : mylabel.o
+
+# target to build an object file
+mylabel.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QTEventPractise.dir/build.make CMakeFiles/QTEventPractise.dir/mylabel.cpp.o
+.PHONY : mylabel.cpp.o
+
+mylabel.i: mylabel.cpp.i
+.PHONY : mylabel.i
+
+# target to preprocess a source file
+mylabel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QTEventPractise.dir/build.make CMakeFiles/QTEventPractise.dir/mylabel.cpp.i
+.PHONY : mylabel.cpp.i
+
+mylabel.s: mylabel.cpp.s
+.PHONY : mylabel.s
+
+# target to generate assembly for a file
+mylabel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QTEventPractise.dir/build.make CMakeFiles/QTEventPractise.dir/mylabel.cpp.s
+.PHONY : mylabel.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -233,6 +257,9 @@ help:
 	@echo "... mainwindow.o"
 	@echo "... mainwindow.i"
 	@echo "... mainwindow.s"
+	@echo "... mylabel.o"
+	@echo "... mylabel.i"
+	@echo "... mylabel.s"
 .PHONY : help
 
 
