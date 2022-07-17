@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/
+cmake_ninja_workdir = /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target OtherWidgetTest
 
@@ -49,31 +49,31 @@ cmake_ninja_workdir = /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-de
 
 build cmake_object_order_depends_target_OtherWidgetTest: phony || OtherWidgetTest_autogen OtherWidgetTest_autogen/mocs_compilation.cpp OtherWidgetTest_autogen/timestamp OtherWidgetTest_autogen_timestamp_deps
 
-build CMakeFiles/OtherWidgetTest.dir/OtherWidgetTest_autogen/mocs_compilation.cpp.o: CXX_COMPILER__OtherWidgetTest_Debug /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_OtherWidgetTest
+build CMakeFiles/OtherWidgetTest.dir/OtherWidgetTest_autogen/mocs_compilation.cpp.o: CXX_COMPILER__OtherWidgetTest_Debug /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_OtherWidgetTest
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
   DEP_FILE = CMakeFiles/OtherWidgetTest.dir/OtherWidgetTest_autogen/mocs_compilation.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17
-  INCLUDES = -I/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug -I/Users/akokko/CLionProjects/OtherWidgetTest -I/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
+  INCLUDES = -I/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug -I/Users/akokko/QTProjects/OtherWidgetTest -I/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
   OBJECT_DIR = CMakeFiles/OtherWidgetTest.dir
   OBJECT_FILE_DIR = CMakeFiles/OtherWidgetTest.dir/OtherWidgetTest_autogen
   TARGET_COMPILE_PDB = CMakeFiles/OtherWidgetTest.dir/
   TARGET_PDB = OtherWidgetTest.pdb
 
-build CMakeFiles/OtherWidgetTest.dir/main.cpp.o: CXX_COMPILER__OtherWidgetTest_Debug /Users/akokko/CLionProjects/OtherWidgetTest/main.cpp || cmake_object_order_depends_target_OtherWidgetTest
+build CMakeFiles/OtherWidgetTest.dir/main.cpp.o: CXX_COMPILER__OtherWidgetTest_Debug /Users/akokko/QTProjects/OtherWidgetTest/main.cpp || cmake_object_order_depends_target_OtherWidgetTest
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
   DEP_FILE = CMakeFiles/OtherWidgetTest.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17
-  INCLUDES = -I/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug -I/Users/akokko/CLionProjects/OtherWidgetTest -I/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
+  INCLUDES = -I/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug -I/Users/akokko/QTProjects/OtherWidgetTest -I/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
   OBJECT_DIR = CMakeFiles/OtherWidgetTest.dir
   OBJECT_FILE_DIR = CMakeFiles/OtherWidgetTest.dir
   TARGET_COMPILE_PDB = CMakeFiles/OtherWidgetTest.dir/
   TARGET_PDB = OtherWidgetTest.pdb
 
-build CMakeFiles/OtherWidgetTest.dir/widget.cpp.o: CXX_COMPILER__OtherWidgetTest_Debug /Users/akokko/CLionProjects/OtherWidgetTest/widget.cpp || cmake_object_order_depends_target_OtherWidgetTest
+build CMakeFiles/OtherWidgetTest.dir/widget.cpp.o: CXX_COMPILER__OtherWidgetTest_Debug /Users/akokko/QTProjects/OtherWidgetTest/widget.cpp || cmake_object_order_depends_target_OtherWidgetTest
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
   DEP_FILE = CMakeFiles/OtherWidgetTest.dir/widget.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17
-  INCLUDES = -I/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug -I/Users/akokko/CLionProjects/OtherWidgetTest -I/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
+  INCLUDES = -I/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug -I/Users/akokko/QTProjects/OtherWidgetTest -I/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
   OBJECT_DIR = CMakeFiles/OtherWidgetTest.dir
   OBJECT_FILE_DIR = CMakeFiles/OtherWidgetTest.dir
   TARGET_COMPILE_PDB = CMakeFiles/OtherWidgetTest.dir/
@@ -102,7 +102,7 @@ build OtherWidgetTest.app/Contents/MacOS/OtherWidgetTest: CXX_EXECUTABLE_LINKER_
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -113,7 +113,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/akokko/CLionProjects/OtherWidgetTest -B/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug
+  COMMAND = cd /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/akokko/QTProjects/OtherWidgetTest -B/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -137,16 +137,16 @@ build OtherWidgetTest_autogen: phony CMakeFiles/OtherWidgetTest_autogen OtherWid
 # Custom command for OtherWidgetTest_autogen/timestamp
 
 build OtherWidgetTest_autogen/timestamp OtherWidgetTest_autogen/mocs_compilation.cpp | ${cmake_ninja_workdir}OtherWidgetTest_autogen/timestamp ${cmake_ninja_workdir}OtherWidgetTest_autogen/mocs_compilation.cpp: CUSTOM_COMMAND /opt/homebrew/share/qt/libexec/moc /opt/homebrew/share/qt/libexec/uic || OtherWidgetTest_autogen_timestamp_deps
-  COMMAND = cd /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_autogen /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir/AutogenInfo.json Debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E touch /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/timestamp && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_transform_depfile Ninja gccdepfile /Users/akokko/CLionProjects/OtherWidgetTest /Users/akokko/CLionProjects/OtherWidgetTest /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/deps /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/d/66efdfec533de7ed8a3e73168044e622c4584431cb50f38879e3b798cfc2dd92.d
+  COMMAND = cd /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_autogen /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir/AutogenInfo.json Debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E touch /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/timestamp && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_transform_depfile Ninja gccdepfile /Users/akokko/QTProjects/OtherWidgetTest /Users/akokko/QTProjects/OtherWidgetTest /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/deps /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/d/b3b9d0f370d9fae78dfc69db2b5572198cc4cd2089d08113cadb1f72931ef8e2.d
   DESC = Automatic MOC and UIC for target OtherWidgetTest
-  depfile = /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/d/66efdfec533de7ed8a3e73168044e622c4584431cb50f38879e3b798cfc2dd92.d
+  depfile = /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/d/b3b9d0f370d9fae78dfc69db2b5572198cc4cd2089d08113cadb1f72931ef8e2.d
   restat = 1
 
 
 #############################################
 # Phony custom command for CMakeFiles/OtherWidgetTest_autogen_timestamp_deps
 
-build CMakeFiles/OtherWidgetTest_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/OtherWidgetTest_autogen_timestamp_deps: phony /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore /opt/homebrew/share/qt/libexec/uic /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets /opt/homebrew/share/qt/libexec/moc
+build CMakeFiles/OtherWidgetTest_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/OtherWidgetTest_autogen_timestamp_deps: phony /opt/homebrew/share/qt/libexec/moc /opt/homebrew/share/qt/libexec/uic /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore
 
 
 #############################################
@@ -165,7 +165,7 @@ build OtherWidgetTest: phony OtherWidgetTest.app/Contents/MacOS/OtherWidgetTest
 # =============================================================================
 
 #############################################
-# Folder: /Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug
+# Folder: /Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug
 
 build all: phony OtherWidgetTest.app/Contents/MacOS/OtherWidgetTest
 

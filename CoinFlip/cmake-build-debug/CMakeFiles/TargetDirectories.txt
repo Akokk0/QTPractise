@@ -1,0 +1,5 @@
+/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CMakeFiles/CoinFlip.dir
+/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CMakeFiles/CoinFlip_autogen_timestamp_deps.dir
+/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CMakeFiles/CoinFlip_autogen.dir

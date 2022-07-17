@@ -1,0 +1,20 @@
+# ninja log v5
+2	217	1657786359738157000	CoinFlip_autogen/timestamp	9251c9afba8de129
+180	342	1657780398106030288	/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CoinFlip_autogen/EWIEGA46WW/qrc_res.cpp	ae17253b52575ce9
+2	217	1657786359738157000	CoinFlip_autogen/mocs_compilation.cpp	9251c9afba8de129
+180	342	1657780398106030288	CoinFlip_autogen/EWIEGA46WW/qrc_res.cpp	ae17253b52575ce9
+2	217	1657786359738157000	/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CoinFlip_autogen/mocs_compilation.cpp	9251c9afba8de129
+2	217	1657786359738157000	/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CoinFlip_autogen/timestamp	9251c9afba8de129
+217	1671	1657786361192051807	CMakeFiles/CoinFlip.dir/CoinFlip_autogen/mocs_compilation.cpp.o	b3ebbb026fc43524
+218	1761	1657786361281859053	CMakeFiles/CoinFlip.dir/mystackwidget.cpp.o	28de53bfc26c9926
+217	1743	1657786361242910611	CMakeFiles/CoinFlip.dir/mainscenes.cpp.o	c9e89ac55e1196c8
+380	1736	1657786243043241607	CMakeFiles/CoinFlip.dir/main.cpp.o	49beca4aa22b3c4e
+342	6030	1657780403782170682	CMakeFiles/CoinFlip.dir/CoinFlip_autogen/EWIEGA46WW/qrc_res.cpp.o	51abe67772da4de4
+1761	1938	1657786361462863352	CoinFlip.app/Contents/MacOS/CoinFlip	bbd7c97aad8df82e
+35	836	1657784506606674452	CMakeFiles/CoinFlip.dir/mypushbutton.cpp.o	9431ea70e3f9cfe5
+3	266	1657786615004991000	CoinFlip_autogen/timestamp	9251c9afba8de129
+3	266	1657786615004991000	CoinFlip_autogen/mocs_compilation.cpp	9251c9afba8de129
+3	266	1657786615004991000	/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CoinFlip_autogen/timestamp	9251c9afba8de129
+3	266	1657786615004991000	/Users/akokko/QTProjects/CoinFlip/cmake-build-debug/CoinFlip_autogen/mocs_compilation.cpp	9251c9afba8de129
+266	1421	1657786616161074115	CMakeFiles/CoinFlip.dir/main.cpp.o	49beca4aa22b3c4e
+266	1438	1657786616179205195	CMakeFiles/CoinFlip.dir/CoinFlip_autogen/mocs_compilation.cpp.o	b3ebbb026fc43524

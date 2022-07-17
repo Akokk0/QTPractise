@@ -1,15 +1,15 @@
 {
-	"BUILD_DIR" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen",
-	"CMAKE_BINARY_DIR" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/akokko/CLionProjects/OtherWidgetTest",
+	"BUILD_DIR" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/akokko/QTProjects/OtherWidgetTest",
 	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/Users/akokko/CLionProjects/OtherWidgetTest/CMakeLists.txt",
+		"/Users/akokko/QTProjects/OtherWidgetTest/CMakeLists.txt",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystem.cmake.in",
-		"/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
+		"/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake",
@@ -93,7 +93,7 @@
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in",
-		"/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
+		"/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
@@ -121,7 +121,7 @@
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in",
-		"/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
+		"/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
 		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"/opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake",
@@ -386,21 +386,21 @@
 		"/opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/Users/akokko/CLionProjects/OtherWidgetTest",
-	"DEP_FILE" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "/Users/akokko/QTProjects/OtherWidgetTest",
+	"DEP_FILE" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "OtherWidgetTest_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/Users/akokko/CLionProjects/OtherWidgetTest/widget.h",
+			"/Users/akokko/QTProjects/OtherWidgetTest/widget.h",
 			"MU",
 			"EWIEGA46WW/moc_widget.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include",
-	"MOC_COMPILATION_FILE" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -411,8 +411,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug",
-		"/Users/akokko/CLionProjects/OtherWidgetTest",
+		"/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug",
+		"/Users/akokko/QTProjects/OtherWidgetTest",
 		"/opt/homebrew/lib/QtCore.framework/Headers",
 		"/opt/homebrew/lib/QtCore.framework",
 		"/opt/homebrew/share/qt/mkspecs/macx-clang",
@@ -444,21 +444,21 @@
 		"-c",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/OtherWidgetTest_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 3,
-	"SETTINGS_FILE" : "/Users/akokko/CLionProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/Users/akokko/QTProjects/OtherWidgetTest/cmake-build-debug/CMakeFiles/OtherWidgetTest_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/Users/akokko/CLionProjects/OtherWidgetTest/main.cpp", "MU", null ],
-		[ "/Users/akokko/CLionProjects/OtherWidgetTest/widget.cpp", "MU", null ]
+		[ "/Users/akokko/QTProjects/OtherWidgetTest/main.cpp", "MU", null ],
+		[ "/Users/akokko/QTProjects/OtherWidgetTest/widget.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
